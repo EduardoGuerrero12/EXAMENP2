@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ProyectoFinalP2</string>
+    <string name="titulo">Examen del profesor de la "O"</string>
+    <string name="titulo2">Examen del profesor de la "O"</string>
+    <string name="pregunta">1. Pregunta  ¿Quien es el profe mas guapo?</string>
+    <string name="pregunta2">2.pregunta ¿Quien es el profe mas feo?</string>
+    <string name="respuesta1">" Es el profe de la o"</string>
+    <string name="respuestdos">Es el profe tenorio</string>
+    <string name="respuesta3">Es el profe de la albertosi</string>
+    <string name="verifica">Verifica</string>
+    <string name="Calificar">Calificar</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="repuesta1de2">Es el profesor de la O</string>
+    <string name="repuesta2de2">Es el profesor de tenorio</string>
+    <string name="repuesta3de2">Los dos tienen con queso</string>
+    <string name="verifica2">Verifica</string>
+    <string name="calificar2">Calificar</string>
+    <string name="atras">Atras</string>
+
+</resources>
