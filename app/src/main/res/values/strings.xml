@@ -16,5 +16,7 @@
     <string name="verifica2">Verifica</string>
     <string name="calificar2">Calificar</string>
     <string name="atras">Atras</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
